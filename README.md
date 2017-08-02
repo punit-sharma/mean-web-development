@@ -1,5 +1,5 @@
 
-* Chapter 1 - Introduction to MEAN - Introduce you to the MEAN stack and shows you how to install the different prerequisites on each OS.
+* Chapter 1 - Introduction to MEAN - Introduce you to the MEAN stack and shows you how to install the different prerequisites
 * [Chapter 2 - Getting Started with Node.js](Chapter 2/) - Explains the basics of Node.js and how it is used in web application development.
 * [Chapter 3 - Building an Express Web Application](Chapter 3/) - Explains how to create and structure an Express application by implementing the MVC pattern.
 * Chapter 4 - Introduction to MongoDB - Explains the basics of MongoDB and how it can be used to store your application data.
