@@ -1,11 +1,3 @@
-# MEAN Web Development - Code Samples
-
-Annotated code samples from the [MEAN Web Development](http://amzn.com/1783983280) book.
-
-## Introduction
-
-In this book, we'll help you set up your environment and explain how to connect the different MEAN components together using the best modules. You'll be introduced
-to the best practices of maintaining your code clear and simple and how to avoid common pitfalls. We'll walk through building your authentication layer and adding your first entity. You'll learn how to leverage JavaScript nonblocking architecture in building real-time communication between your server and client applications. Finally, we'll show you how to cover your code with the proper tests and what tools to use to automate your development process.
 
 ## Chapters
 * Chapter 1 - Introduction to MEAN - Introduce you to the MEAN stack and shows you how to install the different prerequisites on each OS.
